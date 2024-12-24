@@ -1,0 +1,14 @@
+F:\Second course\OOP\Laboratory4\Laboratory4C#\Laboratory_4\Laboratory_4\bin\Debug\net8.0\Laboratory_4.exe
+F:\Second course\OOP\Laboratory4\Laboratory4C#\Laboratory_4\Laboratory_4\bin\Debug\net8.0\Laboratory_4.deps.json
+F:\Second course\OOP\Laboratory4\Laboratory4C#\Laboratory_4\Laboratory_4\bin\Debug\net8.0\Laboratory_4.runtimeconfig.json
+F:\Second course\OOP\Laboratory4\Laboratory4C#\Laboratory_4\Laboratory_4\bin\Debug\net8.0\Laboratory_4.dll
+F:\Second course\OOP\Laboratory4\Laboratory4C#\Laboratory_4\Laboratory_4\bin\Debug\net8.0\Laboratory_4.pdb
+F:\Second course\OOP\Laboratory4\Laboratory4C#\Laboratory_4\Laboratory_4\obj\Debug\net8.0\Laboratory_4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Second course\OOP\Laboratory4\Laboratory4C#\Laboratory_4\Laboratory_4\obj\Debug\net8.0\Laboratory_4.AssemblyInfoInputs.cache
+F:\Second course\OOP\Laboratory4\Laboratory4C#\Laboratory_4\Laboratory_4\obj\Debug\net8.0\Laboratory_4.AssemblyInfo.cs
+F:\Second course\OOP\Laboratory4\Laboratory4C#\Laboratory_4\Laboratory_4\obj\Debug\net8.0\Laboratory_4.csproj.CoreCompileInputs.cache
+F:\Second course\OOP\Laboratory4\Laboratory4C#\Laboratory_4\Laboratory_4\obj\Debug\net8.0\Laboratory_4.dll
+F:\Second course\OOP\Laboratory4\Laboratory4C#\Laboratory_4\Laboratory_4\obj\Debug\net8.0\refint\Laboratory_4.dll
+F:\Second course\OOP\Laboratory4\Laboratory4C#\Laboratory_4\Laboratory_4\obj\Debug\net8.0\Laboratory_4.pdb
+F:\Second course\OOP\Laboratory4\Laboratory4C#\Laboratory_4\Laboratory_4\obj\Debug\net8.0\Laboratory_4.genruntimeconfig.cache
+F:\Second course\OOP\Laboratory4\Laboratory4C#\Laboratory_4\Laboratory_4\obj\Debug\net8.0\ref\Laboratory_4.dll
